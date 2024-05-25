@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/crudproject/static/css/main.88087904.css",
-    "main.js": "/crudproject/static/js/main.3f7cc470.js",
+    "main.js": "/crudproject/static/js/main.0fd9950e.js",
     "index.html": "/crudproject/index.html",
     "main.88087904.css.map": "/crudproject/static/css/main.88087904.css.map",
-    "main.3f7cc470.js.map": "/crudproject/static/js/main.3f7cc470.js.map"
+    "main.0fd9950e.js.map": "/crudproject/static/js/main.0fd9950e.js.map"
   },
   "entrypoints": [
     "static/css/main.88087904.css",
-    "static/js/main.3f7cc470.js"
+    "static/js/main.0fd9950e.js"
   ]
 }
